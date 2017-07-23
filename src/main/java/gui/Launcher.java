@@ -1,0 +1,12 @@
+package gui;
+
+/**
+ * @author Progmat
+ * @version 1.0
+ */
+public class Launcher {
+
+    public static void main(String[] args) {
+        System.out.println("Hi!");
+    }
+}
