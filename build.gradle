@@ -1,3 +1,7 @@
 apply plugin: 'idea'
 //and standard one
 apply plugin: 'java'
+
+dependencies {
+    compile fileTree(dir: 'libs', include: '*.jar')
+}
