@@ -4,7 +4,7 @@ package utils;
 import java.awt.*;
 
 /**
- * @author Progmat
+ * @author Progmat aka Sharprender
  * @version 1.0
  */
 public class Utils {

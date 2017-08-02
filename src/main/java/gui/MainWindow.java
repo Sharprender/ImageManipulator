@@ -6,7 +6,7 @@ import java.awt.event.WindowEvent;
 import java.awt.event.WindowStateListener;
 
 /**
- * @author Progmat
+ * @author Progmat aka Sharprender
  * @version 1.0
  */
 public class MainWindow extends JFrame {

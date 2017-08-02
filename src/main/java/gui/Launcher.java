@@ -5,7 +5,7 @@ import org.opencv.core.CvType;
 import org.opencv.core.Mat;
 
 /**
- * @author Progmat
+ * @author Progmat aka Sharprender
  * @version 1.0
  */
 public class Launcher {

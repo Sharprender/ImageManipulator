@@ -8,7 +8,7 @@ import java.awt.event.KeyListener;
 import static utils.Utils.*;
 
 /**
- * @author Progmat
+ * @author Progmat aka Sharprender
  * @version 1.0
  */
 public class ImageArea extends JPanel implements KeyListener {
